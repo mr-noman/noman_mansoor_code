@@ -16,7 +16,7 @@ import logging
 logger = logging.getLogger()
 logging.basicConfig(level=logging.INFO)
 
-URL = "https://bxgscnkych.execute-api.us-east-1.amazonaws.com/api/submission_link"
+#URL = "https://bxgscnkych.execute-api.us-east-1.amazonaws.com/api/submission_link"
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
